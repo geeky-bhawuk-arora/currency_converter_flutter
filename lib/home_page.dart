@@ -5,7 +5,7 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text('Bhawuk Arora'),
+      body: Text('Bhawuk'),
     );
   }
 }
